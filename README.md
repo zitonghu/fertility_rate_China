@@ -1,7 +1,7 @@
 
-title: "How does birth policy affect fertility rate in China"
+How does birth policy affect fertility rate in China
 output: html_document
-author: Zitong Hu
+Zitong Hu
 ---
 
 ```{r setup, include=FALSE}
