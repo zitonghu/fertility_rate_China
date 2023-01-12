@@ -4,6 +4,8 @@ output: html_document
 /Zitong Hu
 ---
 
+
+【Please see "China Fertility rate paper.pdf" in the repository for the final analysis and paper】
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
