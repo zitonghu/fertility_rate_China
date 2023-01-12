@@ -1,14 +1,14 @@
 
 How does birth policy affect fertility rate in China
 output: html_document
-Zitong Hu
+/Zitong Hu
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-1. Introduction
+1. Introduction/
 The dataset contained 11 datasets published by the China General Social Survey from 
 2003 to 2018. I cleaned these data and combined them into one dataset. This study investigated the effect on female with different geographical residential status (urban/rural), and on female with different higher 
 education background. 
